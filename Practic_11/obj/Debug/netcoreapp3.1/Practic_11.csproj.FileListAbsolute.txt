@@ -1,0 +1,13 @@
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.exe
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.deps.json
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.runtimeconfig.json
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.runtimeconfig.dev.json
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.dll
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\bin\Debug\netcoreapp3.1\Practic_11.pdb
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.csprojAssemblyReference.cache
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.AssemblyInfoInputs.cache
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.AssemblyInfo.cs
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.csproj.CoreCompileInputs.cache
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.dll
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.pdb
+C:\Users\VADIM\source\repos\Practic_11\Practic_11\obj\Debug\netcoreapp3.1\Practic_11.genruntimeconfig.cache
